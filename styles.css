@@ -1,0 +1,25 @@
+body{
+  background-color: #145A32;
+  color: #D4AC0D  ;
+font-size: 18px;
+font-family: 'Do Hyeon', sans-serif;
+text-align: center;
+}
+img{
+width:200px;
+height:300px;
+
+}
+#center{
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+.text_left{
+text-align: left;
+
+}
+ul,h1,h2,img{
+  background-color: #145A32;
+}
